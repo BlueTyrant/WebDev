@@ -25,7 +25,7 @@ document.write(`
               
               <div class="d-inline-block d-lg-none  ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu h3"></span></a></div>
               <ul class="site-menu js-clone-nav d-none d-lg-block">
-                <li class="active" id="home">
+                <li id="home">
                   <a href="index.html">Home</a>
                 </li>                                            
                 <li id="products"><a href="products.html">Products</a></li>
